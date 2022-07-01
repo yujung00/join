@@ -1,0 +1,146 @@
+@value primaryColor from '../../common/color.css';
+
+.navbar{
+    padding: 20px 0;
+    border-bottom: 2px solid #F1F1F1;
+}
+
+.navbarContent{
+    width: 1050px;
+    margin: auto;
+}
+.topNav{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+    .serviceInfoBtn{
+        padding: 0 14px 0 10px;
+        border: 1px solid #EEEEEE;
+        width: fit-content;
+        border-radius: 30px;
+
+        >p{
+            font-weight: 500;
+            font-size: 12px;
+            width: fit-content;
+            line-height: 29px;
+            background: no-repeat right 11px;
+            background-size: 4px;
+            padding-right: 8px;
+
+            span{
+                color: primaryColor;
+                font-size: 12px;
+                font-family: "Spoqa Han Sans Neo";
+                font-weight: 700;
+                line-height: 29px;
+            }
+        }
+
+
+    }
+
+    >nav{
+        width: fit-content;
+        a{
+            line-height: 29px;
+            font-size: 12px;
+        }
+
+        a:nth-child(2n)::before{
+            content: '';
+            display: inline-block;
+            height: 12px;
+            width: 1.2px;
+            background: #d3d3d3;
+            margin: 0 13px 0 10px;
+        }
+        a:nth-child(2n)::after{
+            content: '';
+            display: inline-block;
+            height: 12px;
+            width: 1.2px;
+            background: #d3d3d3;
+            margin: 0 13px 0 10px;
+        }
+
+        .sign{
+            color: primaryColor;
+        }
+
+    }
+
+}
+
+.bottomNav{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    .flNav{
+        overflow: hidden;
+        .logo{
+            width: 168px;
+            height: 40px;
+            float: left;
+        }
+
+        .search{
+            float: left;
+            width: 364px;
+            margin-left: 33px;
+            padding: 0 15px;
+            background: #F5F5F5;
+            height: 42px;
+            border-radius: 5px;
+
+            input{
+                display: inline-block;
+                vertical-align: middle;
+                width: calc(100% - 25px);
+                line-height: 42px;
+                padding: 0;
+                border: none;
+                background: none;
+                font-size: 14px;
+                outline: none;
+            }
+            input::placeholder{
+                color: #C6C6C6;
+            }
+
+            img{
+                display: inline-block;
+                vertical-align: middle;
+                width: 15.73px;
+                height: 17.93px;
+            }
+        }
+    }
+
+    .frNav{
+        a{
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 39px;
+            display: inline-block;
+            vertical-align: middle;
+            margin-left: 20px;
+        }
+
+        img{
+            width: 21px;
+            height: 21px;
+            display: inline-block;
+            vertical-align: middle;
+        }
+    }
+}
+
+
+
+
+

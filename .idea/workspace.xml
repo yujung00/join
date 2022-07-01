@@ -2,39 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fba8e21c-b392-4f1f-952e-f243a9039908" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/page/main/Main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/nav/icn-document.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/nav/icn-gray1-right-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/nav/icn-heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/nav/icn-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/color.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/carousel/carousel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/carousel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/nav_bar/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/nav_bar/navbar.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoMedium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoMedium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoMedium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoRegular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoRegular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoThin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoThin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/SpoqaHanSansNeoThin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page/home/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/main/Main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2BHMLKn1l9askbWlZNz7NZA5CCy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/common" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/common" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,32 +107,15 @@
       <workItem from="1656558501451" duration="1467000" />
       <workItem from="1656563935581" duration="817000" />
       <workItem from="1656564908971" duration="782000" />
+      <workItem from="1656648609326" duration="599000" />
+      <workItem from="1656649230688" duration="5113000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1059" height="555" key="GridCell.Tab.0.bottom" timestamp="1656564773552">
-      <screen x="-1080" y="-333" width="1080" height="1895" />
-    </state>
-    <state width="1059" height="555" key="GridCell.Tab.0.bottom/-1080.-333.1080.1895/1792.25.1920.1055/0.25.1792.1029@-1080.-333.1080.1895" timestamp="1656564773552" />
-    <state width="1059" height="555" key="GridCell.Tab.0.center" timestamp="1656564773550">
-      <screen x="-1080" y="-333" width="1080" height="1895" />
-    </state>
-    <state width="1059" height="555" key="GridCell.Tab.0.center/-1080.-333.1080.1895/1792.25.1920.1055/0.25.1792.1029@-1080.-333.1080.1895" timestamp="1656564773550" />
-    <state width="1059" height="555" key="GridCell.Tab.0.left" timestamp="1656564773550">
-      <screen x="-1080" y="-333" width="1080" height="1895" />
-    </state>
-    <state width="1059" height="555" key="GridCell.Tab.0.left/-1080.-333.1080.1895/1792.25.1920.1055/0.25.1792.1029@-1080.-333.1080.1895" timestamp="1656564773550" />
-    <state width="1059" height="555" key="GridCell.Tab.0.right" timestamp="1656564773551">
-      <screen x="-1080" y="-333" width="1080" height="1895" />
-    </state>
-    <state width="1059" height="555" key="GridCell.Tab.0.right/-1080.-333.1080.1895/1792.25.1920.1055/0.25.1792.1029@-1080.-333.1080.1895" timestamp="1656564773551" />
-    <state x="-1030" y="250" key="SettingsEditor" timestamp="1656564322595">
-      <screen x="-1080" y="-333" width="1080" height="1895" />
-    </state>
-    <state x="-1030" y="250" key="SettingsEditor/-1080.-333.1080.1895/1792.25.1920.1055/0.25.1792.1029@-1080.-333.1080.1895" timestamp="1656564322595" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

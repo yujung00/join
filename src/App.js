@@ -1,15 +1,18 @@
 import React, {Component} from 'react';
-import {Route, Routes, Router} from 'react-router-dom';
-import Main from "./page/main/Main";
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-class App extends Component{
-  render() {
+import Home from "./page/home/Home";
+
+const App =  () => {
     return (
-        <Routes>
-          <Route path="/" element={<Main/>}/>
-        </Routes>
+        <div className='App'>
+            <BrowserRouter>
+                <Routes>
+                    <Route path="/" element={<Home/>}/>
+                </Routes>
+            </BrowserRouter>
+        </div>
     );
-  }
 }
 
 export default App;
